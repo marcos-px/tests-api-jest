@@ -23,6 +23,7 @@ module.exports = {
       env: {
         jest: true,
       },
+      "eslint linebreak-style": [0, "error", "windows"],
     },
   ],
 };

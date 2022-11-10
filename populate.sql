@@ -46,4 +46,3 @@ VALUES
    ("O Feiticeiro de Terramar", 450, 2, 2),
    ("Os Despossuídos", 300, 2, 3),
    ("Memórias Póstumas de Brás Cubas", 150, 3, 4);
-   
